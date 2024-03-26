@@ -12,6 +12,7 @@ node_modules/
 # production
 /build
 .env
+steps.txt
 
 # misc
 .DS_Store
